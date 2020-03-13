@@ -33,7 +33,7 @@
 
                 echo"<script>
                 alert('Selamat Datang Pembeli')
-                window.location.href='../index.php';
+                window.location.href='../checkout.php';
                 </script>";
             }
         }else{
