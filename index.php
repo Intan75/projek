@@ -186,7 +186,7 @@
                                                     <a class="dropdown-item" href="checkout.php">Checkout</a>
                                                 </div>
                                             </li>
-                                            <li class="nav-item active"><a class="nav-link" src="img/product-img/produk-34.jpg" alt="">Member Card</a></li>
+                                            <!-- <li class="nav-item active"><a class="nav-link" src="img/product-img/produk-34.jpg" alt="">Member Card</a></li> -->
                                             <!-- <li class="nav-item"><a class="nav-link" href="#">Dresses</a></li>
                                             <li class="nav-item"><a class="nav-link" href="#"><span class="karl-level">hot</span> Shoes</a></li> -->
                                             <!-- <li class="nav-item"><a class="nav-link" href="#">Contact</a></li> -->

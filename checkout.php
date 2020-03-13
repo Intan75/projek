@@ -235,31 +235,31 @@
                                 <p>Enter your cupone code</p>
                             </div>
 
-                            <form action="#" method="post">
+                            <form action="proses/proses_pemesanan.php" method="post">
                                 <div class="row">
                                     <div class="col-md-6 mb-3">
                                         <label for="first_name">First Name <span>*</span></label>
-                                        <input type="text" class="form-control" id="first_name" value="" required>
+                                        <input type="text" class="form-control" id="first_name" name="first" value="" required>
                                     </div>
                                     <div class="col-md-6 mb-3">
                                         <label for="last_name">Last Name <span>*</span></label>
-                                        <input type="text" class="form-control" id="last_name" value="" required>
+                                        <input type="text" class="form-control" id="last_name" name="last"  value="" required>
                                     </div>
-                                    <div class="col-12 mb-3">
+                                    <!-- <div class="col-12 mb-3">
                                         <label for="company">Company Name</label>
                                         <input type="text" class="form-control" id="company" value="">
-                                    </div>
+                                    </div> -->
                                     <div class="col-12 mb-3">
-                                        <label for="country">Country <span>*</span></label>
+                                        <label for="country">Country<span>*</span></label>
                                         <select class="custom-select d-block w-100" id="country">
-                                        <option value="usa">United States</option>
-                                        <option value="uk">United Kingdom</option>
-                                        <option value="ger">Germany</option>
-                                        <option value="fra">France</option>
-                                        <option value="ind">India</option>
-                                        <option value="aus">Australia</option>
-                                        <option value="bra">Brazil</option>
-                                        <option value="cana">Canada</option>
+                                        <option value="indonesia">Indonesia</option>
+                                        <option value="malaysia">Malaysia</option>
+                                        <option value="singa">Singapura</option>
+                                        <option value="thai">Thailand</option>
+                                        <!-- <option value="ind">Jakarta</option>
+                                        <option value="aus">Bandung</option>
+                                        <option value="bra">Surabaya</option>
+                                        <option value="cana">Yogyakarta</option> -->
                                     </select>
                                     </div>
                                     <div class="col-12 mb-3">

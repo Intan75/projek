@@ -350,8 +350,8 @@ body {
                     <div class="input-block">
                     <label for="signup-level">level</label>
                     <select name="level" id="">
-                        <option value="pengguna">Penjual</option>
-                        <option value="pembeli">Pembeli</option>
+                        <option value="penjual">seller</option>
+                        <option value="pembeli">buyer</option>
                     </select>
                     </div>
                 </fieldset>

@@ -99,7 +99,7 @@
     <div id="wrapper">
 
         <!-- ****** Header Area Start ****** -->
-        <header class="header_area bg-img background-overlay-white" style="background-image: url(img/bg-img/bg-1.jpg);">
+        <header class="header_area bg-img background-overlay-white" style="background-image: url(img/bg-img/bg-4.jpg);">
             <!-- Top Header Area Start -->
             <div class="top_header_area">
                 <div class="container h-100">
