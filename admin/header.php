@@ -41,12 +41,12 @@
     <!-- ============================================================== -->
     <!-- Preloader - style you can find in spinners.css -->
     <!-- ============================================================== -->
-    <div class="preloader">
+    <!-- <div class="preloader">
         <div class="loader">
             <div class="loader__figure"></div>
             <p class="loader__label">Admin Wrap</p>
         </div>
-    </div>
+    </div> -->
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
@@ -124,9 +124,9 @@
                         </li>
                         <li> <a class="waves-effect waves-dark" href="prosesbarang.php" aria-expanded="false"><i class="fa fa-table"></i><span class="hide-menu">Form barang</span></a>
                         </li>
-                        <li> <a class="waves-effect waves-dark" href="table_biodata.php" aria-expanded="false"><i class="fa fa-smile-o"></i><span class="hide-menu">Table Biodata</span></a>
+                        <li> <a class="waves-effect waves-dark" href="table_biodata.php" aria-expanded="false"><i class="fa fa-smile-o"></i><span class="hide-menu">Table Member Locqal</span></a>
                         </li>
-                        <li> <a class="waves-effect waves-dark" href="" aria-expanded="false"><i class="fa fa-globe"></i><span class="hide-menu">Table barang</span></a>
+                        <li> <a class="waves-effect waves-dark" href="table_alamat.php" aria-expanded="false"><i class="fa fa-globe"></i><span class="hide-menu">Alamat Pembeli</span></a>
                         </li>
                         <li> <a class="waves-effect waves-dark" href="map-google.php" aria-expanded="false"><i class="fa fa-bookmark-o"></i><span class="hide-menu">Map</span></a>
                         </li>

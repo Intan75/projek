@@ -212,7 +212,7 @@ include 'header.php';
                                         </div>
                                         <div class="single-recommended-desc">
                                             <h6>Blue mini top</h6>
-                                            <p>$ 19.99</p>
+                                            <p>IDR 150.000</p>
                                         </div>
                                     </div>
                                     <!-- Single Recommended Product -->
@@ -222,7 +222,7 @@ include 'header.php';
                                         </div>
                                         <div class="single-recommended-desc">
                                             <h6>Women’s T-shirt</h6>
-                                            <p>$ 39.99</p>
+                                            <p>IDR 200.000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -248,7 +248,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 550.000</h4>
                                         <p>Lanccelot Gold Girl</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
 
@@ -267,7 +267,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 350.000</h4>
                                         <p>Black Outfit</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
 
@@ -285,7 +285,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 150.000</h4>
                                         <p>Wakai grey slip on </p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
 
@@ -303,7 +303,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 350.000</h4>
                                         <p>Black outfit</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
                                 <!-- Single gallery Item Start -->
@@ -320,7 +320,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 200.000</h4>
                                         <p>Berrybenka Sandals blue</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
 
@@ -339,7 +339,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 800.000</h4>
                                         <p>Eiger 1989cyclops1.0</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
 
@@ -357,7 +357,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 200.000</h4>
                                         <p>Shoes brown brodo</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
                                 <!-- Single gallery Item -->
@@ -374,7 +374,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 650.000</h4>
                                         <p>Lanccelot Black</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
                                 <!-- Single gallery Item -->
@@ -391,7 +391,7 @@ include 'header.php';
                                         <h4 class="product-price">IDR 200.000</h4>
                                         <p>Shoes red brodo</p>
                                         <!-- Add to Cart -->
-                                        <a href="#" class="add-to-cart-btn">ADD TO CART</a>
+                                        <a href="cart.php" class="add-to-cart-btn">ADD TO CART</a>
                                     </div>
                                 </div>
                                 </div>

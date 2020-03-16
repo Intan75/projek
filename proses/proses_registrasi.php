@@ -5,7 +5,7 @@ if (isset ($_POST['regis'])){
     $id=md5(uniqid());
     $username=$_POST['username'];
     $password=md5($_POST['password']);
-    $level=$_POST['level'];
+    $level="user";
     $email=$_POST['email'];
 
 

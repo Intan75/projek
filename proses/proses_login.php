@@ -23,7 +23,7 @@
                 $_SESSION['status']='login';
 
                 echo"<script>
-                alert('Selamat Datang Penjual');
+                alert('Welcome seller');
                 window.location ='../admin/index.php';
                 </script>";
             }else if($data['level']=="pembeli"){
@@ -32,12 +32,12 @@
                 $_SESSION['status']='login';
 
                 echo"<script>
-                alert('Selamat Datang Pembeli')
-                window.location.href='../checkout.php';
+                alert('Welcome Locqal Lovers,choose ur style!')
+                window.location.href='../shop.php';
                 </script>";
             }
         }else{
-            echo'<script>alert("username dan password salah!")
+            echo'<script>alert("Wrong username and password!")
                 window.location.href="../login.php";
             </script>';
         }

@@ -33,10 +33,12 @@
 
             if($query){
 
-                echo'data biodata berhasil di masukkan';
+                echo'<script>alert("Data berhasil dimasukkan!")
+                window.location.href="../admin/biodata.php";
+            </script>';
 
             }else{
-                echo'data gagal dimasukkan';
+                echo'Yaah..data gagal dimasukkan';
             }
 
 

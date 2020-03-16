@@ -347,13 +347,13 @@ body {
                     <label for="signup-password">Password</label>
                     <input id="signup-password" type="password" name="password" required>
                     </div>
-                    <div class="input-block">
+                    <!-- <div class="input-block">
                     <label for="signup-level">level</label>
                     <select name="level" id="">
                         <option value="penjual">seller</option>
                         <option value="pembeli">buyer</option>
                     </select>
-                    </div>
+                    </div> -->
                 </fieldset>
                 <button type="submit" class="btn-signup" name="regis" >Continue</button>
                 </form>

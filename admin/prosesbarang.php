@@ -49,15 +49,16 @@
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                                <th>No</th>
-                                                <th>Email</th>
-                                                <th>Username</th>
-                                                <th>Password</th>
-                                                <th>Level</th>
+                                                <th>Merek</th>
+                                                <th>Warna</th>
+                                                <th>Ukuran</th>
+                                                <th>Stok</th>
+                                                <th>Jenis</th>
+                                                <th>Gambar</th>
                                             </tr>
                                         </thead>
                                         <?php
-                                        $nampildata=mysqli_query($koneksi, "SELECT * FROM login")or die(mysqli_error($nampildata));
+                                        $nampildata=mysqli_query($koneksi, "SELECT * FROM stok")or die(mysqli_error($nampildata));
 
                                         if(mysqli_num_rows($nampildata)==0){
                                         echo'<tr>data kosong</tr>';
@@ -68,12 +69,14 @@
                                         ?>
                                         <tbody>
                                             <tr>
-                                                <td><?php echo $no;?></td>
-                                                <td><?php echo $data['email']?></td>
-                                                <td><?php echo $data['username']?></td>
-                                                <td><?php echo $data['password']?></td>
-                                                <td><?php echo $data['level']?></td>
-                                                <td><a href="../proses/proseshapususer.php?id_user=<?php echo $data['id_user']?>" type="submit" class="btn btn-danger">Hapus </a></td>
+                                                <td><?php echo $merek;?></td>
+                                                <td><?php echo $warna['nama']?></td>
+                                                <td><?php echo $ukuran['alamat']?></td>
+                                                <td><?php echo $stok['no_hp']?></td>
+                                                <td><?php echo $jenis['email']?></td>
+                                                <td><?php echo $gambar['hobby']?></td>
+                                                <td><?php echo"<img width='50px' src='../upload/".$data['foto']."'>";?></td> 
+                                                <td><a href="../proses/proseshapusbiodata.php?id_biodata=<?php echo $data['id_biodata']?>" type="submit" class="btn btn-danger">Hapus </a></td>
                                             </tr>
                                         </tbody>
                                         <?php 

@@ -41,7 +41,7 @@ include 'header.php';
 
                         <div class="cart-footer d-flex mt-30">
                             <div class="back-to-shop w-50">
-                                <a href="shop-grid-left-sidebar.php">Continue shooping</a>
+                                <a href="shop.php">Continue shooping</a>
                             </div>
                             <div class="update-checkout w-50 text-right">
                                 <a href="#">clear cart</a>
